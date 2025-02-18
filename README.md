@@ -1,5 +1,7 @@
 # modal
 
+## 基于Vue2开发的模态框
+
 ## Project setup
 ```
 npm install
